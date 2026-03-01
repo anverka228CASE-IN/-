@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+scikit-learn
+networkx
+matplotlib
+plotly
+tqdm
+rich
+rdkit
+pubchempy
